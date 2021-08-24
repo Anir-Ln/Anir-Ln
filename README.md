@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web developpement 
 - 🤔 I’m looking for help with Problem solving (comptitive programiing) / web dev
 - 😄 Pronouns: He/His
+
+Hackerrank : <a href="https://www.hackerrank.com/Anir_Ln">Anir_Ln</a><br>
+Geeksforgeeks: <a href="https://auth.geeksforgeeks.org/user/anir4">anir4</a><br>
+Leetcode: <a href="https://leetcode.com/Anir4/">Anir4</a> 
