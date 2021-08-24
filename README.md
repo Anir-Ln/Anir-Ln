@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an e-dictionary for the Amazigh language
 - 🌱 I’m currently learning Web developpement 
-- 👯 I’m looking to collaborate on scaling Amazigh language presence in the age of tech
 - 🤔 I’m looking for help with Problem solving (comptitive programiing) / web dev
 - 😄 Pronouns: He/His
