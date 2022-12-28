@@ -7,7 +7,7 @@
 
 <!-- - 👯 I’m looking to collaborate on [learn-english-using-pdf-books](https://github.com/Anir-Ln/learn-english-using-pdf-books) -->
 
-- 💬 Ask me about **Java, React, algorithms, programming in general**
+- 💬 Ask me about **Java, Javascript, React, algorithms, programming in general**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
