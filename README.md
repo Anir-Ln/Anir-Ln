@@ -1,8 +1,7 @@
 <h1 align="center">Azul 👋, My name is Mohamed LAHYANE</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on [learning-with-books](https://github.com/Anir-Ln/learning-with-books) (checkout all the branches)
-
+- 🔭 I’m currently working on [learning-with-books](https://github.com/Anir-Ln/learning-with-books)
 - 🌱 I’m currently learning **Software Design,Spring Cloud, JamStack**
 
 <!-- - 👯 I’m looking to collaborate on [learn-english-using-pdf-books](https://github.com/Anir-Ln/learn-english-using-pdf-books) -->
